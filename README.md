@@ -2,7 +2,7 @@
 
 Job-Hiring is an application that allows users to apply for different jobs
 
-![Presentation](https://github.com/NavarroSofiar/job-hiring-app/blob/main/Appimages/inicioadmin.png)
+![Presentation](https://github.com/NavarroSofiar/job-hiring-app/blob/main/Appimages/iniciouser.png)
 
 
 As an administrator you can access this list and you can create, modify or delete a job
